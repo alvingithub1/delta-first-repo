@@ -10,5 +10,5 @@ Vocabulary List
 - GitHub
 
 Git Commands
-$ `git add <file-name>`
-$ `git commit -m "message"`
+- $ `git add <file-name>`
+- $ `git commit -m "message"`
